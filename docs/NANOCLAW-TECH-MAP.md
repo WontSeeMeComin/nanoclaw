@@ -304,7 +304,7 @@ Currently no model is specified in the `query()` call — SDK defaults are used.
 
 ## 11. Current Installation State
 
-- **Channel:** Discord (`Aegis#5231` in `clawdbot-jones #primary`)
+- **Channel:** Discord (`Aegis#5231` in `aegis-nanobot #primary`)
 - **JID:** `dc:1487657391297269887`
 - **Group folder:** `discord_main` (main group, no trigger required)
 - **Gmail:** Tool-only mode (`matt@cascadialogic.io`)
